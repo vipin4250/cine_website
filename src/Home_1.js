@@ -1,5 +1,5 @@
 import React from "react";
-// import { useInView } from 'react-intersection-observer';
+
 import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
 import Carousel from "./Components/Carousel";
