@@ -1,0 +1,17 @@
+._2{
+    margin: 0;
+    padding: 0;
+}   
+._2_1{
+    /* width: 104%; */
+    background-color: #470e51;
+    margin-left: auto;
+    margin-top: 5px;
+}
+._2_1_1{
+    color: #106876;
+    /* color: #767610; */
+}
+._2_1_1:hover {
+    color: beige;
+}

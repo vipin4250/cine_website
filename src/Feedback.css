@@ -1,0 +1,42 @@
+._3_1{
+    border: 1px solid blanchedalmond;
+    border-radius: 13px 13px 13px 13px;
+    background-color:rgb(255, 235, 204) ;
+    width: 50%;
+    justify-content: center;
+    /* align-items: center; */
+    margin: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 5%;
+    text-align: center;
+    box-shadow: 4px 4px rgb(118, 118, 117);
+    color: #981c08;
+    font-weight: 700;
+    margin-bottom: 3%;
+}
+
+
+.footer{
+    margin-top: 2%;
+}
+.feedlist{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 2% ;
+    margin-bottom: 5% ;
+}
+.feedlist i{
+    font-size: larger;
+}
+._3_2
+{
+    margin: 1% 5%;
+}
+._3_2_1{
+    background-color:#dcdcd4;
+}
+._3_2_2{
+    background-color:#515044;
+}

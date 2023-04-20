@@ -1,0 +1,135 @@
+._2{
+    margin: 0;
+    padding: 0;
+}   
+._2_1{
+    width: 113%;
+}
+._2_1_1{
+    color: #767610;
+}
+
+/* ================================================================================================================ */
+
+._2_2_1{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin: 4% 5% 0 5%;
+}
+._2_2_1_1{
+  list-style-type: none;
+  margin: 1% 3% 0 0;
+}
+._2_2_1_1_1{
+    color: #767610;
+  }
+.status_1{
+    /* border: 1px solid gray; */
+    background-color: #313030;
+    padding: 1% 2%;
+    width: 109%;
+    height: 200%;
+    margin: 0 1.4%;
+    color: white;
+}
+/* =================================== */
+
+._2_3_1{
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: 1% 2%;
+    width: 105%;
+    background-color: rgb(202, 202, 181);
+}
+._2_3_1 th{
+    border: 1px solid white;
+}
+._2_3_1_1{
+    width: 0.25%;
+    text-align: center;
+}
+._2_3_1_2{
+    width: 7%;
+    font-size: x-small;
+}
+._2_3_1_2 li{
+    list-style-type: none;
+}
+._2_3_1_3{
+    width: 0.25%;
+    text-align: center;
+}
+._2_3_1_2_1{
+    display: flex;
+    margin: 0.2%;
+    padding: 0;
+}
+._2_3{
+    text-align: center;
+    justify-content: center;
+    margin-left: 3%;
+}
+/* ========================================== */
+/* .footer{
+    background-color: #313030;
+    border: 1px solid black;
+    width: 111%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+}
+.icons_1{
+    margin: 1%;
+    font-size: x-large;
+}
+.footer_1{
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    justify-content: center;
+    margin: 0 4% 0 0;
+}
+.footer_1_2{
+    display: flex;
+}
+.footer_1_1{
+    color: white;
+    padding: 1%;
+}
+.icons_1{
+    margin: 0 5%;
+}
+.footer_2{
+    border-bottom: 1px solid gray;
+    margin: 0 2%;
+}
+
+.footer_3_1{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin: 0 4% 0 0;
+}
+.footer_3_1_1{
+    margin: 1% 1%;
+}
+.footer_3_1_1_1{
+    color: white;
+    font-size: small;
+}
+.footer_4{
+    color: white;
+    margin: 3% 0 0 1%;
+    padding: 1% 0 0 0;
+    bottom: 0;
+    list-style-type: none;
+    justify-content: center;
+}
+.footer_4_1{
+    font-size: small;
+}
+.footer_4_2{
+    font-size: x-small;
+} */
+
+/* =================================================================================================================== */

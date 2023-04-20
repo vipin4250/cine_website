@@ -1,0 +1,20 @@
+.feedlist{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 2% ;
+    margin-bottom: 5% ;
+}
+.feedlist i{
+    font-size: larger;
+}
+._3_2
+{
+    margin: 1% 5%;
+}
+._3_2_1{
+    background-color:#dcdcd4;
+}
+._3_2_2{
+    background-color:#515044;
+}

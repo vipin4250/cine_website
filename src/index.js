@@ -1,13 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './App';
+// import Rating from './Rating';
+// import Feedback from './Feedback';
+// import Faq from './Faq';
+import Home_1 from './Home_1';
+
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    {/* <Rating/> */}
+    {/* <Feedback/> */}
+    {/* <Faq/> */}
+    <Home_1/>
+  
+
   </React.StrictMode>
 );
 
