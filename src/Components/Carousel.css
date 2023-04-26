@@ -3,4 +3,18 @@
     width:99vw;
     background-size: cover;
     overflow: hidden;
+    display: relative;
+    filter: brightness(70%);
+}
+._6_2{
+    margin-top: 10px;
+    height: 10px;
+    translate: 20px 20px;
+    color: white;
+    display: absolute;
+}
+._6_1_1{
+    /* translate: 0px -100px; */
+    font-size: x-large;
+    color: aqua;
 }

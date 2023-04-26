@@ -12,7 +12,7 @@ import { FaFacebook,FaTwitter,FaDiscord,FaInstagram } from "react-icons/fa";
 
 export default function Home_1() {
 
-const callback = (entries, observer) => {
+const callback = (entries, observer) => { 
   entries.forEach(entry =>{
     entry.target.classList.toggle("is-inViewport", entry.isIntersecting);
   });
@@ -23,7 +23,7 @@ const options = {
   rootMargin: "0px",
   threshold: 1.0,
 };
-const observer = new IntersectionObserver(callback);
+const observer = new IntersectionObserver(callback); 
 
 const ELs_inViewport = document.querySelectorAll('[data-inviewport]');
 ELs_inViewport.forEach(EL => {
